@@ -30,7 +30,6 @@ int main() {
 	int day = 0;
 
 	while (!grown.empty()) {
-
 		while (!grown.empty()) {
 			int tomato = grown.front();
 			grown.pop();
@@ -65,15 +64,6 @@ int main() {
 		while (!tobe.empty()) tobe.pop();
 		day++;
 	}
-	/*for (int height = 0; height < h; height++) {
-		for (int y = 0; y < n; y++) {
-			for (int x = 0; x < m; x++) {
-				cout << x + y * m + height * (m * n)<<" ";
-			}
-			cout << endl;
-		}
-		cout << endl;
-	}*/
 
 	if (find(box.begin(), box.end(), 0) == box.end())
 		cout << day;

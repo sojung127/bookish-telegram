@@ -18,5 +18,14 @@
     <ClCompile Include="tomato.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="maze.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lan.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mze.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
