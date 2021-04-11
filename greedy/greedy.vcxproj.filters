@@ -15,28 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tomato.cpp">
+    <ClCompile Include="comporintern.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="maze.cpp">
+    <ClCompile Include="FillCoin.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="lan.cpp">
+    <ClCompile Include="timetable.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="mze.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="maze_wall.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pizza.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="make_password.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="dslr.cpp">
+    <ClCompile Include="sickKnight.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
